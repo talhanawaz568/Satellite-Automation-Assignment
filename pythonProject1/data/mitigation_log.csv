@@ -1,0 +1,12 @@
+timestamp,attack,action,result
+2026-06-10 05:46:23.801407,RF_JAMMING,Frequency Hopping + Spread Spectrum,Signal Recovered
+2026-06-10 05:52:34.201373,RF_JAMMING,Frequency Hopping + Spread Spectrum,Signal Recovered
+2026-06-10 05:52:55.392715,UNAUTHORIZED_COMMAND,Account Isolation,Access Blocked
+2026-06-10 05:53:16.556295,GPS_SPOOFING,Restore Trusted Coordinates,Navigation Restored
+2026-06-10 05:53:19.609909,GPS_SPOOFING,Restore Trusted Coordinates,Navigation Restored
+2026-06-10 05:53:25.661973,UNAUTHORIZED_COMMAND,Account Isolation,Access Blocked
+2026-06-10 05:54:26.270608,GPS_SPOOFING,Restore Trusted Coordinates,Navigation Restored
+2026-06-10 05:54:29.321613,UNAUTHORIZED_COMMAND,Account Isolation,Access Blocked
+2026-06-10 05:54:41.439831,RF_JAMMING,Frequency Hopping + Spread Spectrum,Signal Recovered
+2026-06-10 05:54:50.511341,UNAUTHORIZED_COMMAND,Account Isolation,Access Blocked
+2026-06-10 05:54:59.707736,UNAUTHORIZED_COMMAND,Account Isolation,Access Blocked

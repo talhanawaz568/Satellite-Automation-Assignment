@@ -1,0 +1,7 @@
+SATELLITE FIRMWARE VERSION 1
+
+Security Patch Level 999
+
+Communication Improvements
+
+Navigation Improvements

@@ -1,0 +1,855 @@
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 14:35:38.117644
+Incident ID: INC-2
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 14:36:26.533256
+Incident ID: INC-3
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 14:36:32.600993
+Incident ID: INC-4
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:02:43.561942
+Incident ID: INC-2
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:03:25.951709
+Incident ID: INC-3
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:03:35.010091
+Incident ID: INC-4
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:05.184192
+Incident ID: INC-5
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:17.278549
+Incident ID: INC-6
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:26.340061
+Incident ID: INC-7
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:32.355775
+Incident ID: INC-8
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:41.421387
+Incident ID: INC-9
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:04:47.469290
+Incident ID: INC-10
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:05:41.967558
+Incident ID: INC-11
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:06:15.237815
+Incident ID: INC-12
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:06:27.336737
+Incident ID: INC-13
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:06:42.447850
+Incident ID: INC-14
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:06:45.479366
+Incident ID: INC-15
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:07:00.573602
+Incident ID: INC-16
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:07:06.622467
+Incident ID: INC-17
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:07:45.444885
+Incident ID: INC-1
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:07:48.462105
+Incident ID: INC-2
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:07:54.481444
+Incident ID: INC-3
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:00.531168
+Incident ID: INC-4
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:09.630556
+Incident ID: INC-5
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:15.666866
+Incident ID: INC-6
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:33.819045
+Incident ID: INC-7
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:39.868701
+Incident ID: INC-8
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:45.891727
+Incident ID: INC-9
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:08:54.981209
+Incident ID: INC-10
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:09:01.024756
+Incident ID: INC-11
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:09:04.039215
+Incident ID: INC-12
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:09:25.123639
+Incident ID: INC-13
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:09:55.349205
+Incident ID: INC-14
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:10:01.380220
+Incident ID: INC-15
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:10:04.399090
+Incident ID: INC-16
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:10:40.616314
+Incident ID: INC-17
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:10:55.705473
+Incident ID: INC-18
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:10:58.829184
+Incident ID: INC-19
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:11:04.889213
+Incident ID: INC-20
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:11:26.034831
+Incident ID: INC-21
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:11.245080
+Incident ID: INC-22
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:35.417294
+Incident ID: INC-23
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:41.442128
+Incident ID: INC-24
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:44.491759
+Incident ID: INC-25
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:50.606572
+Incident ID: INC-26
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:12:59.704098
+Incident ID: INC-27
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:13:24.119241
+Incident ID: INC-28
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:13:39.187649
+Incident ID: INC-29
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:13:45.209043
+Incident ID: INC-30
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:13:51.247613
+Incident ID: INC-31
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:14:00.316763
+Incident ID: INC-32
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:14:24.459602
+Incident ID: INC-33
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:14:30.484101
+Incident ID: INC-34
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:14:36.507117
+Incident ID: INC-35
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:15:00.634862
+Incident ID: INC-36
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:15:06.653679
+Incident ID: INC-37
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:15:21.708155
+Incident ID: INC-38
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:15:36.814305
+Incident ID: INC-39
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:15:55.050553
+Incident ID: INC-40
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:16:01.111527
+Incident ID: INC-41
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:16:04.163646
+Incident ID: INC-42
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:16:46.582965
+Incident ID: INC-43
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:17:04.792926
+Incident ID: INC-44
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:17:10.856837
+Incident ID: INC-45
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:17:29.060162
+Incident ID: INC-46
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:17:50.257427
+Incident ID: INC-47
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:11.453669
+Incident ID: INC-48
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:14.491403
+Incident ID: INC-49
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:20.547365
+Incident ID: INC-50
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:26.577599
+Incident ID: INC-51
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:29.629604
+Incident ID: INC-52
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:44.793008
+Incident ID: INC-53
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:18:56.904051
+Incident ID: INC-54
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:19:06.004942
+Incident ID: INC-55
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:19:15.108519
+Incident ID: INC-56
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:19:21.164316
+Incident ID: INC-57
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:20:00.539022
+Incident ID: INC-58
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:20:36.920664
+Incident ID: INC-59
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:20:46.015799
+Incident ID: INC-60
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:21:10.248769
+Incident ID: INC-61
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:21:22.356754
+Incident ID: INC-62
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:21:46.587487
+Incident ID: INC-63
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:22:01.738857
+Incident ID: INC-64
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-08 15:22:32.040380
+Incident ID: INC-65
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:46:23.805473
+Incident ID: INC-1
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:52:34.203831
+Incident ID: INC-24
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:52:55.394707
+Incident ID: INC-25
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:53:16.559293
+Incident ID: INC-26
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:53:19.611908
+Incident ID: INC-27
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:53:25.664998
+Incident ID: INC-28
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:54:26.272624
+Incident ID: INC-29
+Attack Type: GPS_SPOOFING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:54:29.325680
+Incident ID: INC-30
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:54:41.441831
+Incident ID: INC-31
+Attack Type: RF_JAMMING
+Severity: HIGH
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:54:50.512322
+Incident ID: INC-32
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
+
+=================================
+INCIDENT CREATED
+=================================
+Time: 2026-06-10 05:54:59.710735
+Incident ID: INC-33
+Attack Type: UNAUTHORIZED_COMMAND
+Severity: CRITICAL
+=================================
