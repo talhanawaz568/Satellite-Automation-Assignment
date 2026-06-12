@@ -5,6 +5,10 @@ from sklearn.metrics import classification_report
 
 data = pd.read_csv("../data/telemetry.csv")
 
+data = data.dropna(
+    subset=["attack_type"]
+)
+
 X = data[
     [
         "signal_strength",
