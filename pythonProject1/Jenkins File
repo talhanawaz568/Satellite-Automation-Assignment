@@ -1,0 +1,108 @@
+pipeline {
+    agent any
+
+    stages {
+
+        stage('Checkout Repository') {
+            steps {
+                git branch: 'main',
+                    url: 'https://github.com/talhanawaz568/Satellite-Automation-Assignment.git'
+            }
+        }
+
+        stage('Verify Repository') {
+            steps {
+                sh '''
+                cd pythonProject1
+                pwd
+                ls
+                '''
+            }
+        }
+
+        stage('Bandit Security Scan') {
+            steps {
+                sh '''
+                cd pythonProject1
+                bandit -r . || true
+                '''
+            }
+        }
+
+        stage('Verify Firmware') {
+            steps {
+                sh '''
+                cd pythonProject1
+                ls firmware
+                '''
+            }
+        }
+
+        stage('Verify Transmission Files') {
+            steps {
+                sh '''
+                cd pythonProject1
+                ls transmission
+                '''
+            }
+        }
+
+        stage('Post Quantum Validation') {
+            steps {
+                sh '''
+                cd pythonProject1
+                python3 post_quantum/pqc_validator.py
+                '''
+            }
+        }
+
+        stage('Firmware Integrity Validation') {
+            steps {
+                sh '''
+                cd pythonProject1
+
+                echo "Checking firmware..."
+                test -f firmware/firmware_v1.txt
+
+                echo "Checking encrypted package..."
+                test -f transmission/firmware_package.enc
+
+                echo "Checking hash..."
+                test -f transmission/hash.txt
+
+                echo "Checking signature..."
+                test -f transmission/signature.bin
+
+                echo "Firmware Validation Successful"
+                '''
+            }
+        }
+
+        stage('Generate Secure OTA Package') {
+            steps {
+                sh '''
+                cd pythonProject1/ground_station
+                python3 generate_key.py
+                python3 generate_rsa_keys.py
+                python3 ground_station.py
+                '''
+            }
+        }
+
+        stage('Satellite Receiver Validation') {
+
+            steps {
+
+               sh '''
+
+               cd pythonProject1/satellite_receiver
+
+               python3 satellite_receiver.py
+
+                '''
+
+            }
+
+        }
+    } // End of stages
+} // End of pipeline
